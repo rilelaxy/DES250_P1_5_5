@@ -1,0 +1,29 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/Users/Riley/Documents/GitHub/DES250_P1_5_5/DES250_P1_5_5/Content/UI/WBP_StartScreen.uasset",
+				"C:/Users/Riley/Documents/GitHub/DES250_P1_5_5/DES250_P1_5_5/Content/UI/WBP_GameHUD.uasset",
+				"C:/Users/Riley/Documents/GitHub/DES250_P1_5_5/DES250_P1_5_5/Content/GameplayBlueprints/BP_Coin.uasset",
+				"C:/Users/Riley/Documents/GitHub/DES250_P1_5_5/DES250_P1_5_5/Content/ActorComponents/AC_Inventory.uasset",
+				"C:/Users/Riley/Documents/GitHub/DES250_P1_5_5/DES250_P1_5_5/Content/__ExternalActors__/Maps/FirstPersonMap/0/QB/RPJMTVNHVEP4JWJULJ3XYZ.uasset",
+				"C:/Users/Riley/Documents/GitHub/DES250_P1_5_5/DES250_P1_5_5/Content/Characters/BP_DES250_FirstPersonCharacter.uasset",
+				"C:/Users/Riley/Documents/GitHub/DES250_P1_5_5/DES250_P1_5_5/Content/__ExternalActors__/Maps/FirstPersonMap/7/A0/2MZLCPEYNPOVGC1DVIW72K.uasset",
+				"C:/Users/Riley/Documents/GitHub/DES250_P1_5_5/DES250_P1_5_5/Content/__ExternalActors__/Maps/FirstPersonMap/3/6Q/8BJIO53MF2WBXDEVV7HQZM.uasset",
+				"C:/Users/Riley/Documents/GitHub/DES250_P1_5_5/DES250_P1_5_5/Content/ActorComponents/AC_Health.uasset",
+				"C:/Users/Riley/Documents/GitHub/DES250_P1_5_5/DES250_P1_5_5/Content/GameplayBlueprints/BP_Gem.uasset",
+				"C:/Users/Riley/Documents/GitHub/DES250_P1_5_5/DES250_P1_5_5/Content/__ExternalActors__/Maps/FirstPersonMap/4/4K/XLFCO37J59PT5JIXQ2NMXZ.uasset",
+				"C:/Users/Riley/Documents/GitHub/DES250_P1_5_5/DES250_P1_5_5/Content/Controllers/BP_DES250_PlayerController.uasset",
+				"C:/Users/Riley/Documents/GitHub/DES250_P1_5_5/DES250_P1_5_5/Content/DES250_Macros.uasset",
+				"C:/Users/Riley/Documents/GitHub/DES250_P1_5_5/DES250_P1_5_5/Content/GameplayBlueprints/BP_Hazard.uasset",
+				"C:/Users/Riley/Documents/GitHub/DES250_P1_5_5/DES250_P1_5_5/Content/__ExternalActors__/Maps/FirstPersonMap/2/NZ/NQM0NCACK40YBJ9S1LLQHA.uasset",
+				"C:/Users/Riley/Documents/GitHub/DES250_P1_5_5/DES250_P1_5_5/Content/GameplayBlueprints/BP_Health.uasset",
+				"C:/Users/Riley/Documents/GitHub/DES250_P1_5_5/DES250_P1_5_5/Content/__ExternalActors__/Maps/FirstPersonMap/C/Y6/CSGHJNASHZTYPYDIS4PJVE.uasset",
+				"C:/Users/Riley/Documents/GitHub/DES250_P1_5_5/DES250_P1_5_5/Content/__ExternalActors__/Maps/FirstPersonMap/5/B1/UQL6EIXYKW8QZHZ6T9E0MP.uasset"
+			]
+		}
+	]
+}
