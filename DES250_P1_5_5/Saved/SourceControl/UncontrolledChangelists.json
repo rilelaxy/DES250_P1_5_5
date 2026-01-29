@@ -19,10 +19,25 @@
 				"C:/Users/Riley/Documents/GitHub/DES250_P1_5_5/DES250_P1_5_5/Content/Controllers/BP_DES250_PlayerController.uasset",
 				"C:/Users/Riley/Documents/GitHub/DES250_P1_5_5/DES250_P1_5_5/Content/DES250_Macros.uasset",
 				"C:/Users/Riley/Documents/GitHub/DES250_P1_5_5/DES250_P1_5_5/Content/GameplayBlueprints/BP_Hazard.uasset",
-				"C:/Users/Riley/Documents/GitHub/DES250_P1_5_5/DES250_P1_5_5/Content/__ExternalActors__/Maps/FirstPersonMap/2/NZ/NQM0NCACK40YBJ9S1LLQHA.uasset",
 				"C:/Users/Riley/Documents/GitHub/DES250_P1_5_5/DES250_P1_5_5/Content/GameplayBlueprints/BP_Health.uasset",
 				"C:/Users/Riley/Documents/GitHub/DES250_P1_5_5/DES250_P1_5_5/Content/__ExternalActors__/Maps/FirstPersonMap/C/Y6/CSGHJNASHZTYPYDIS4PJVE.uasset",
-				"C:/Users/Riley/Documents/GitHub/DES250_P1_5_5/DES250_P1_5_5/Content/__ExternalActors__/Maps/FirstPersonMap/5/B1/UQL6EIXYKW8QZHZ6T9E0MP.uasset"
+				"C:/Users/Riley/Documents/GitHub/DES250_P1_5_5/DES250_P1_5_5/Content/__ExternalActors__/Maps/FirstPersonMap/5/B1/UQL6EIXYKW8QZHZ6T9E0MP.uasset",
+				"C:/Users/Riley/Documents/GitHub/DES250_P1_5_5/DES250_P1_5_5/Content/DES250_Functions.uasset",
+				"C:/Users/Riley/Documents/GitHub/DES250_P1_5_5/DES250_P1_5_5/Content/UI/WBP_PauseMenu.uasset",
+				"C:/Users/Riley/Documents/GitHub/DES250_P1_5_5/DES250_P1_5_5/Content/GameplayBlueprints/BP_LevelExit.uasset",
+				"C:/Users/Riley/Documents/GitHub/DES250_P1_5_5/DES250_P1_5_5/Content/Interfaces/BI_PlayerCharacter.uasset",
+				"C:/Users/Riley/Documents/GitHub/DES250_P1_5_5/DES250_P1_5_5/Content/DoNotChange/FirstPerson/Blueprints/BP_FirstPersonCharacter.uasset",
+				"C:/Users/Riley/Documents/GitHub/DES250_P1_5_5/DES250_P1_5_5/Content/__ExternalActors__/Maps/FirstPersonMap/C/2R/E82E6WD4ZLK3CJ9L3H9S46.uasset",
+				"C:/Users/Riley/Documents/GitHub/DES250_P1_5_5/DES250_P1_5_5/Content/GameModes/GM_NoPlayer.uasset",
+				"C:/Users/Riley/Documents/GitHub/DES250_P1_5_5/DES250_P1_5_5/Content/NewFolder/InputNodes.uasset",
+				"C:/Users/Riley/Documents/GitHub/DES250_P1_5_5/DES250_P1_5_5/Content/Maps/StartLevel.umap",
+				"C:/Users/Riley/Documents/GitHub/DES250_P1_5_5/DES250_P1_5_5/Content/GameplayBlueprints/BP_CheckpointFlag.uasset",
+				"C:/Users/Riley/Documents/GitHub/DES250_P1_5_5/DES250_P1_5_5/Content/GameModes/GM_DES250.uasset",
+				"C:/Users/Riley/Documents/GitHub/DES250_P1_5_5/DES250_P1_5_5/Content/GameModes/GM_DES250_FirstPerson.uasset",
+				"C:/Users/Riley/Documents/GitHub/DES250_P1_5_5/DES250_P1_5_5/Content/GameModes/GM_DES250_ThirdPerson.uasset",
+				"C:/Users/Riley/Documents/GitHub/DES250_P1_5_5/DES250_P1_5_5/Content/GameModes/GS_DES250.uasset",
+				"C:/Users/Riley/Documents/GitHub/DES250_P1_5_5/DES250_P1_5_5/Content/__ExternalActors__/Maps/FirstPersonMap/5/H7/DPSM8YSOOZ50N2T1KAQECF.uasset",
+				"C:/Users/Riley/Documents/GitHub/DES250_P1_5_5/DES250_P1_5_5/Content/__ExternalActors__/Maps/FirstPersonMap/2/NZ/NQM0NCACK40YBJ9S1LLQHA.uasset"
 			]
 		}
 	]
